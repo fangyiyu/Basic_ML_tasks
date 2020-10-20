@@ -1,2 +1,2 @@
-## Regression task: auto_mgp
-## Classification task: wine varieties classification (multiclass)
+Regression task: auto_mgp
+Classification task: wine varieties classification (multiclass)
